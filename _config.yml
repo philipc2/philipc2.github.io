@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Philip Chmielowiec: Scientific Software Engineer"
+  name   : "Philip Chmielowiec
   avatar : "/assets/images/bio.jpeg"
   bio    : |-
     Scientific Software Engineer 
