@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Philip Chmielowiec: Scientific Software Engineer"
+title: "Philip Chmielowiec"
 
 email: philipc@ucar.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -62,8 +62,6 @@ author:
   avatar : "/assets/images/bio.jpeg"
   bio    : |-
     Scientific Software Engineer 
-    
-    NSF National Center for Atmopsheric Research
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
