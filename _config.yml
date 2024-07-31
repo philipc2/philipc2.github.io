@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Philip Chmielowiec
+  name   : "Philip Chmielowiec"
   avatar : "/assets/images/bio.jpeg"
   bio    : |-
     Scientific Software Engineer 
@@ -74,12 +74,18 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+      
+# Defaults
 defaults:
-  # _pages
+  # _posts
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
 
