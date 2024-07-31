@@ -58,9 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Philip Chmielowiec"
+  name   : "Philip Chmielowiec: Scientific Software Engineer"
   avatar : "/assets/images/bio.jpeg"
-  bio    : "Scientific Software Engineer \n NSF National Center for Atmopsheric Research."
+  bio    : |-
+    Scientific Software Engineer 
+    NSF National Center for Atmopsheric Research
+    philipc@ucar.edu
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
