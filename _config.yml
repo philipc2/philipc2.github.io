@@ -54,6 +54,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll-feed
   - jekyll-include-cache
 
 author:
@@ -66,7 +67,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/philipc2
+      url: "https://github.com/philipc2"
 
 footer:
   links:
