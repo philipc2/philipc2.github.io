@@ -53,7 +53,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -62,12 +61,12 @@ author:
   avatar : "/assets/images/bio.jpeg"
   bio    : |-
     Scientific Software Engineer 
+    
     NSF National Center for Atmopsheric Research
-    philipc@ucar.edu
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/philipc2"
+      url: "https://github.com/philipc2
 
 footer:
   links:
