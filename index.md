@@ -15,7 +15,9 @@ header:
 </div>
 
 <p>
-  I am currently working as a <strong>Scientific Software Engineer</strong> on the <a href="https://geocat.ucar.edu/">GeoCAT</a> team at the <a href="https://ncar.ucar.edu/">NSF National Center for Atmospheric Research</a>. I am one of the primary maintainers of the <a href="https://github.com/UXARRAY/uxarray">UXarray</a> Python Package
+  I am currently working as a <strong>Scientific Software Engineer</strong> on the <a href="https://geocat.ucar.edu/">GeoCAT</a> team at the <a href="https://ncar.ucar.edu/">NSF National Center for Atmospheric Research</a>. I work on 
+  developing the <a href="https://github.com/UXARRAY/uxarray">UXarray</a> Python Package, which enables analysis and visualization routines directly on unstructured grid datasets. 
+
 </p>
 
 
