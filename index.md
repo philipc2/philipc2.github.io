@@ -12,6 +12,11 @@ header:
 
 I am currently working as a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmopsheric Research](https://ncar.ucar.edu/).
 
+<div style="text-align: center;">
+  <img src="/images/ncar_lab.png" alt="NCAR Lab" width="50%">
+</div>
+
+
 ---
 
 ## Previous Work Experiences
