@@ -10,16 +10,13 @@ header:
 
 # About me
 
-I am currently working as a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmopsheric Research](https://ncar.ucar.edu/).
+I am currently working as a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/).
 
-<div style="text-align: center;">
+<div style="float: left; margin-right: 10px;">
   <img src="/images/ncar_lab.png" alt="NCAR Lab" width="25%">
 </div>
 
-<p>
-  I am currently working as a <strong>Scientific Software Engineer</strong> on the <a href="https://geocat.ucar.edu/">GeoCAT</a> team at the <a href="https://ncar.ucar.edu/">NSF National Center for Atmospheric Research</a>.
-  <img src="/images/ncar_lab.png" alt="NCAR Lab" style="float: right; margin-left: 20px; width: 25%;">
-</p>
+
 
 
 
