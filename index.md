@@ -16,6 +16,13 @@ I am currently working as a **Scientific Software Engineer** on the [GeoCAT](htt
   <img src="/images/ncar_lab.png" alt="NCAR Lab" width="25%">
 </div>
 
+<p>
+  I am currently working as a <strong>Scientific Software Engineer</strong> on the <a href="https://geocat.ucar.edu/">GeoCAT</a> team at the <a href="https://ncar.ucar.edu/">NSF National Center for Atmospheric Research</a>.
+  <img src="/images/ncar_lab.png" alt="NCAR Lab" style="float: right; margin-left: 20px; width: 25%;">
+</p>
+
+
+
 
 ---
 
