@@ -10,7 +10,7 @@ header:
 
 # About me
 
-<div style="float: right; margin-left: 10px;">
+<div style="float: right; margin-left: 20px;">
   <img src="/images/ncar_lab.png" alt="NCAR Lab" width="40%">
 </div>
 
