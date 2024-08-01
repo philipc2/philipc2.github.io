@@ -11,7 +11,7 @@ header:
 # About me
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/images/ncar_lab.png" alt="NCAR Lab" width="25%">
+  <img src="/images/ncar_lab.png" alt="NCAR Lab" width="50%">
 </div>
 
 <p>
@@ -21,10 +21,6 @@ header:
 
 
 
-
-
-
----
 
 ## Previous Work Experiences
 
