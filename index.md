@@ -14,3 +14,11 @@ I am currently working as a **Scientific Software Engineer** on the [GeoCAT](htt
 
 ---
 
+## Education
+
+- **M.S. in Computer Science** - The University of Chicago
+
+- **B.S. in Computer Engineering** - University of Illinois Urbana-Champaign
+
+---
+
