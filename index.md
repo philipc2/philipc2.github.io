@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I am currently working as a Scientific Software Engineer on the GeoCAT team at the NSF National Center for Atmopsheric Research.
+I am currently working as a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmopsheric Research](https://ncar.ucar.edu/).
 
 ---
 
