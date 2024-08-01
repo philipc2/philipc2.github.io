@@ -22,7 +22,7 @@ _NSF National Center for Atmopsheric Research_
 ### SIParCS Intern
 _NSF National Center for Atmopsheric Research_
 
-### Undergraduate Teaching Assistant - UIUC
+### Undergraduate Teaching Assistant
 _University of Illinois Urbana-Champaign_
 
 ### Undergraduate Research Assistant
@@ -32,9 +32,11 @@ _University of Illinois Urbana-Champaign_
 
 ## Education
 
-### M.S. in Computer Science - The University of Chicago
+### M.S. in Computer Science
+_The University of Chicago_
 
-### B.S. in Computer Engineering - University of Illinois Urbana-Champaign
+### B.S. in Computer Engineering
+_University of Illinois Urbana-Champaign_
 
 ---
 
