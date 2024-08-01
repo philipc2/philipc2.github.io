@@ -16,19 +16,23 @@ I am currently working as a **Scientific Software Engineer** on the [GeoCAT](htt
 
 ## Previous Work Experiences
 
-- **Visisting Scholar** - NSF NCAR:
+### Visisting Scholar
+_NSF National Center for Atmopsheric Research_
 
-- **SIParCS Intern** - NSF NCAR:
+### SIParCS Intern - NSF NCAR
+NSF National Center for Atmopsheric Research
+
+### Undergraduate Teaching Assistant - UIUC
+
+### Undergraduate Research Assistant - UIUC
 
 
 
 ## Education
 
-### **M.S. in Computer Science** - The University of Chicago
+### M.S. in Computer Science - The University of Chicago
 
-- **M.S. in Computer Science** - The University of Chicago
-
-- **B.S. in Computer Engineering** - University of Illinois Urbana-Champaign
+### B.S. in Computer Engineering - University of Illinois Urbana-Champaign
 
 ---
 
