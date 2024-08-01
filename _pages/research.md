@@ -1,7 +1,7 @@
 ---
 title: 'Research'
 layout: single
-permalink: /projects/
+permalink: /research/
 author_profile: true
 excerpt: 'Research'
 header:
