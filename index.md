@@ -23,7 +23,7 @@ _NSF National Center for Atmopsheric Research_
 _NSF National Center for Atmopsheric Research_
 
 ### Undergraduate Teaching Assistant - UIUC
-_University of Illinois Urbana-Champaign
+_University of Illinois Urbana-Champaign_
 
 ### Undergraduate Research Assistant
 _University of Illinois Urbana-Champaign_
