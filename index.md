@@ -17,10 +17,8 @@ I am currently working as a **Scientific Software Engineer** on the [GeoCAT](htt
 ## Previous Work Experiences
 
 - **Visisting Scholar** - NSF NCAR:
-  Add description.
 
 - **SIParCS Intern** - NSF NCAR:
-  Add description. 
 
 
 
