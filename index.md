@@ -19,12 +19,14 @@ I am currently working as a **Scientific Software Engineer** on the [GeoCAT](htt
 ### Visisting Scholar
 _NSF National Center for Atmopsheric Research_
 
-### SIParCS Intern - NSF NCAR
-NSF National Center for Atmopsheric Research
+### SIParCS Intern
+_NSF National Center for Atmopsheric Research_
 
 ### Undergraduate Teaching Assistant - UIUC
+_University of Illinois Urbana-Champaign
 
-### Undergraduate Research Assistant - UIUC
+### Undergraduate Research Assistant
+_University of Illinois Urbana-Champaign_
 
 
 
