@@ -27,26 +27,26 @@ header:
 ## Previous Work Experiences
 
 ### Visisting Scholar
-_NSF National Center for Atmopsheric Research_
+NSF National Center for Atmopsheric Research
 
 ### SIParCS Intern
-_NSF National Center for Atmopsheric Research_
+NSF National Center for Atmopsheric Research
 
 ### Undergraduate Teaching Assistant
-_University of Illinois Urbana-Champaign_
+University of Illinois Urbana-Champaign
 
 ### Undergraduate Research Assistant
-_University of Illinois Urbana-Champaign_
+University of Illinois Urbana-Champaign
 
 
 
 ## Education
 
 ### M.S. in Computer Science
-_The University of Chicago_
+The University of Chicago
 
 ### B.S. in Computer Engineering
-_University of Illinois Urbana-Champaign_
+University of Illinois Urbana-Champaign
 
 ---
 
