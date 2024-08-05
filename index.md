@@ -10,15 +10,15 @@ header:
 
 # About me
 
-<div style="float: right; margin-left: 20px;">
-  <img src="/images/ncar_lab.png" alt="NCAR Lab" width="40%">
+<div style="float: right; margin-left: 20px; width: 50%;">
+  <img src="/images/ncar_lab.png" alt="NCAR Lab" style="width: 100%;">
 </div>
 
 <p>
   I am currently working as a <strong>Scientific Software Engineer</strong> on the <a href="https://geocat.ucar.edu/">GeoCAT</a> team at the <a href="https://ncar.ucar.edu/">NSF National Center for Atmospheric Research</a>. I work on 
   developing <a href="https://github.com/UXARRAY/uxarray">UXarray</a>, a Python Package that enables analysis and visualization routines directly on unstructured grid datasets. 
-
 </p>
+
 
 
 
