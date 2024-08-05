@@ -11,7 +11,7 @@ header:
 # About me
 
 <div style="float: right; margin-left: 20px; width: 50%;">
-  <img src="/images/ncar_lab.png" alt="NCAR Lab" style="width: 100%;">
+  <img src="/images/ncar_lab.png" alt="NCAR Lab" style="width: 50%;">
 </div>
 
 <p>
