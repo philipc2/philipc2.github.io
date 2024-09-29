@@ -11,4 +11,4 @@ header:
 
 ## Projects
 
-### UXarray: Xarray-styled Python Package for working with unstructured grid datasets
+### UXarray: Xarray extension for unstructured climate and global weather data analysis and visualization.
