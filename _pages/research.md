@@ -9,9 +9,8 @@ header:
   overlay_filter: 0.5
 ---
 
-## Publications
 
-### Last Glacial Maximum Pattern Effects
+## Last Glacial Maximum Pattern Effects
 
 {% include figure
    image_path="/images/research.jpg"
@@ -26,7 +25,7 @@ _Last Glacial Maximum pattern effects reduce climate sensitivity estimates._ *Sc
 
 ---
 
-### Investigating the Limited Sample Size of Subseasonal Climate Forecasting Datasets in Deep-Learning Applications
+## Investigating the Limited Sample Size of Subseasonal Climate Forecasting Datasets in Deep-Learning Applications
 
 {% include figure
    image_path="/images/senior.png"
