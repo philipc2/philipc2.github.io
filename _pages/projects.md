@@ -11,4 +11,25 @@ header:
 
 ## Projects
 
-### UXarray: Xarray extension for unstructured climate and global weather data analysis and visualization.
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+
+  <!-- Logo -->
+  <img
+    src="/images/logos/uxarray_logo_h_dark.svg"
+    alt="UXarray logo"
+    style="max-width: 120px; margin-right: 1rem; height: auto;"
+  >
+
+  <!-- Project details -->
+  <div>
+    <h3 style="margin-top: 0;">
+      UXarray: Xarray extension for unstructured climate and global weather data analysis and visualization
+    </h3>
+    <p>
+      A Python package for analysis and visualization directly on unstructured-grid datasets.
+      <a href="https://github.com/UXARRAY/uxarray" target="_blank">View on GitHub →</a>
+    </p>
+  </div>
+
+</div>
+
