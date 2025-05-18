@@ -35,14 +35,4 @@ I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu
 *June 2021 – May 2023*  
 
 
----
 
-
-## Teaching
-
-| Course                              | Role                               | Institution                                      |
-|-------------------------------------|------------------------------------|--------------------------------------------------|
-| Intermediate Python Programming     | Graduate Teaching Assistant        | University of Chicago                            |
-| Python Programming                  | Graduate Teaching Assistant        | University of Chicago                            |
-| Computer Systems & Programming      | Undergraduate Teaching Assistant   | University of Illinois Urbana-Champaign          |
-| Complex Linear Algebra              | Undergraduate Teaching Assistant   | University of Illinois Urbana-Champaign          |
