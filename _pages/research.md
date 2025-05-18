@@ -21,5 +21,9 @@ Cooper, V. T., Armour, K. C., Hakim, G. J., Tierney, J. E., Osman, M. B., Proist
 
 ## Investigating the Limited Sample Size of Subseasonal Climate Forecasting Datasets in Deep-Learning Applications
 
+<div style="float: center; width: 100%;">
+  <img src="/images/senior.png" alt="Senior Thesis" style="width: 100%;">
+</div>
+
 https://hdl.handle.net/2142/124855
 
