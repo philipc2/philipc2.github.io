@@ -15,7 +15,7 @@ header:
 
   <!-- Logo -->
   <img
-    src="/images/logos/uxarray_logo_h_dark.svg"
+    src="https://raw.githubusercontent.com/UXARRAY/uxarray/b064246ad95d6e694aa9132a984b1e3f704c9877/docs/_static/images/logos/uxarray_logo_h_dark.svg"
     alt="UXarray logo"
     style="max-width: 120px; margin-right: 1rem; height: auto;"
   >
