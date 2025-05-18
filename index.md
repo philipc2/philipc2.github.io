@@ -37,12 +37,6 @@ I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu
 
 ---
 
-## Education
-
-- **M.S. in Computer Science**, The University of Chicago  
-- **B.S. in Computer Engineering**, University of Illinois Urbana-Champaign  
-
----
 
 ## Teaching
 
