@@ -6,6 +6,8 @@ main:
     url: /research/
   - title: "Education"
     url: /education/
+  - title: "Teaching"
+    url: /teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
