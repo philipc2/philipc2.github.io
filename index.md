@@ -1,63 +1,61 @@
 ---
-title: 'Philip Chmielowiec'
+title: "Philip Chmielowiec"
 layout: single
 author_profile: true
-excerpt: 'Scientific Software Engineer'
+excerpt: "Scientific Software Engineer"
 header:
   overlay_image: /images/ncar.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5
 ---
 
-# About me
+## About
 
-<div style="float: right; margin-left: 20px; width: 30%;">
-  <img src="/images/ncar_lab.png" alt="NCAR Lab" style="width: 70%;">
-</div>
+{% include figure.html
+   image   = "/images/ncar_lab.png"
+   caption = "NCAR Lab"
+   position = "right"
+   width   = "30%"
+%}
 
-<p>
-  I am currently working as a <strong>Scientific Software Engineer</strong> on the <a href="https://geocat.ucar.edu/">GeoCAT</a> team at the <a href="https://ncar.ucar.edu/">NSF National Center for Atmospheric Research</a>. I work on 
-  developing <a href="https://github.com/UXARRAY/uxarray">UXarray</a>, a Python Package that enables analysis and visualization routines directly on unstructured grid datasets. 
-</p>
+I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/). I develop [UXarray](https://github.com/UXARRAY/uxarray), a Python package for analysis and visualization directly on unstructured-grid datasets.
+
+---
+
+## Experience
+
+### Scientific Software Engineer
+**NSF National Center for Atmospheric Research**  
+*June 2023 to Present*  
+
+### Visiting Scholar  
+**NSF National Center for Atmospheric Research**  
+*August 2022 to June 2023*  
 
 
+### SIParCS Intern  
+**NSF National Center for Atmospheric Research**  
+*Summer 2022*  
 
 
+### Undergraduate Research Assistant  
+**University of Illinois Urbana-Champaign**  
+*June 2021 – May 2023*  
 
 
-## Previous Work Experiences
-
-### Visisting Scholar
-NSF National Center for Atmopsheric Research
-
-### SIParCS Intern
-NSF National Center for Atmopsheric Research
-
-### Undergraduate Research Assistant
-University of Illinois Urbana-Champaign
-
+---
 
 ## Education
 
-### M.S. in Computer Science
-The University of Chicago
-
-
-### B.S. in Computer Engineering
-University of Illinois Urbana-Champaign
-
-## Teaching
-
-### Intermediate Python Programming
-Graduate Teaching Assistant - University of Chicago
-
-### Python Programming 
-Graduate Teaching Assistant - University of Chicago
-
-### Computer Systems & Programming 
-Undergraduate Teaching Assistant - University of Illinois Urbana-Champaign
-
-### Complex Linear Algebra 
-Undergraduate Teaching Assistant - University of Illinois Urbana-Champaign
+- **M.S. in Computer Science**, The University of Chicago  
+- **B.S. in Computer Engineering**, University of Illinois Urbana-Champaign  
 
 ---
 
+## Teaching
+
+| Course                              | Role                               | Institution                                      |
+|-------------------------------------|------------------------------------|--------------------------------------------------|
+| Intermediate Python Programming     | Graduate Teaching Assistant        | University of Chicago                            |
+| Python Programming                  | Graduate Teaching Assistant        | University of Chicago                            |
+| Computer Systems & Programming      | Undergraduate Teaching Assistant   | University of Illinois Urbana-Champaign          |
+| Complex Linear Algebra              | Undergraduate Teaching Assistant   | University of Illinois Urbana-Champaign          |
