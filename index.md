@@ -14,25 +14,5 @@ header:
 I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/). I develop [UXarray](https://github.com/UXARRAY/uxarray), a Python package for analysis and visualization directly on unstructured-grid datasets.
 
 
-## Experience
-
-### Scientific Software Engineer
-**NSF National Center for Atmospheric Research**  
-*June 2023 to Present*  
-
-### Visiting Scholar  
-**NSF National Center for Atmospheric Research**  
-*August 2022 to June 2023*  
-
-
-### SIParCS Intern  
-**NSF National Center for Atmospheric Research**  
-*Summer 2022*  
-
-
-### Undergraduate Research Assistant  
-**University of Illinois Urbana-Champaign**  
-*June 2021 – May 2023*  
-
 
 
