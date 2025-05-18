@@ -10,7 +10,7 @@ header:
 
 ## About
 
-I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/). I lead development of [UXarray](https://github.com/UXARRAY/uxarray), a Python package for analysis and visualization of unstructured-grid datasets.
+I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/). I develop [UXarray](https://github.com/UXARRAY/uxarray), a Python package for analysis and visualization of unstructured-grid datasets.
 
 By partnering directly with scientists and engineers, I translate geoscience challenges into intuitive software interfaces. My user-focused abstractions, from streamlined data ingestion to interactive visualization, remove boilerplate so researchers can concentrate on discovery.
 
