@@ -15,6 +15,8 @@ header:
   <img src="/images/research.jpg" alt="Research" style="width: 100%;">
 </div>
 
+<br/>
+
 Cooper, V. T., Armour, K. C., Hakim, G. J., Tierney, J. E., Osman, M. B., Proistosescu, C., … Chmielowiec, P. (2024). Last Glacial Maximum pattern effects reduce climate sensitivity estimates. *Science Advances, 10*, eadk9461. [doi:10.1126/sciadv.adk9461](https://doi.org/10.1126/sciadv.adk9461)
 
 
@@ -24,6 +26,8 @@ Cooper, V. T., Armour, K. C., Hakim, G. J., Tierney, J. E., Osman, M. B., Proist
 <div style="float: center; width: 100%;">
   <img src="/images/senior.png" alt="Senior Thesis" style="width: 100%;">
 </div>
+
+<br/>
 
 https://hdl.handle.net/2142/124855
 
