@@ -273,3 +273,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+header_pages:
+  - index.md      # your home
+  - projects.md   # projects page
+  - research.md   # research page
