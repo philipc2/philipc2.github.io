@@ -1,8 +1,12 @@
 ---
-layout: single
 title: "Teaching"
+layout: single
 permalink: /teaching/
 author_profile: true
+excerpt: ""
+header:
+  overlay_image: /images/ncar.png
+  overlay_filter: 0.5
 ---
 
 ## Intermediate Python Programming
