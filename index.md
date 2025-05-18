@@ -35,6 +35,16 @@ NSF National Center for Atmopsheric Research
 ### Undergraduate Research Assistant
 University of Illinois Urbana-Champaign
 
+
+## Education
+
+### M.S. in Computer Science
+The University of Chicago
+
+
+### B.S. in Computer Engineering
+University of Illinois Urbana-Champaign
+
 ## Teaching
 
 ### Intermediate Python Programming
@@ -48,15 +58,6 @@ Undergraduate Teaching Assistant - University of Illinois Urbana-Champaign
 
 ### Complex Linear Algebra 
 Undergraduate Teaching Assistant - University of Illinois Urbana-Champaign
-
-
-## Education
-
-### M.S. in Computer Science
-The University of Chicago
-
-### B.S. in Computer Engineering
-University of Illinois Urbana-Champaign
 
 ---
 
