@@ -32,3 +32,25 @@ header:
 
 </div>
 
+
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+
+  <!-- Logo -->
+  <img
+    src="https://raw.githubusercontent.com/philipc2/sci-sonify/46e55b0a794753375dd0c0f8acf5f2ed7901210a/docs/source/_static/logo.svg"
+    alt="sci-sonify logo"
+    style="max-width: 120px; margin-right: 1rem; height: auto;"
+  >
+
+  <!-- Project details -->
+  <div>
+    <h3 style="margin-top: 0;">
+      Sci-Sonify: Turn Scientific Data into Sounds & Music
+    </h3>
+    <p>
+      <a href="https://github.com/philipc2/sci-sonify" target="_blank">View on GitHub →</a>
+    </p>
+  </div>
+
+</div>
+
