@@ -10,13 +10,6 @@ header:
 
 ## About
 
-{% include figure
-   popup=true
-   image_path="/images/ncar_lab.png"
-   alt="NCAR Lab"
-   caption="NCAR Lab"
-%}
-
 
 I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/). I develop [UXarray](https://github.com/UXARRAY/uxarray), a Python package for analysis and visualization directly on unstructured-grid datasets.
 
