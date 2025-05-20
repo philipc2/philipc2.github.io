@@ -10,11 +10,12 @@ header:
 
 ## About
 
-I’m a **Scientific Software Engineer** on the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/), developing [UXarray](https://github.com/UXARRAY/uxarray), a Python library for analyzing and visualizing unstructured-grid datasets.
+I'm a **Scientific Software Engineer** with the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/), where I develop [UXarray](https://github.com/UXARRAY/uxarray), a Python library designed for analyzing and visualizing unstructured-grid datasets.
 
-I’m passionate about leveraging Python’s versatility in scientific computing, enabling advanced analyses without compromising performance. By modernizing legacy workflows using optimized libraries such as Numba, Dask, and CuPy alongside targeted C++ and CUDA integrations, I deliver intuitive Python APIs designed to scale seamlessly from local workstations to HPC clusters.
+My work centers on harnessing Python's versatility in scientific computing to enable sophisticated analyses without sacrificing performance. By integrating modern, high-performance libraries such as Numba, Dask, and CuPy, as well as targeted extensions written in C++ and CUDA, I create intuitive, scalable Python APIs suitable for environments ranging from individual workstations to high-performance computing clusters.
 
-I foster interdisciplinary collaboration by partnering directly with engineers, researchers, and domain scientists, bridging deep scientific expertise with robust software engineering. My goal is always to translate complex geoscience challenges into user-centric tools, streamlining data ingestion, analysis, and interactive visualization, so researchers can focus purely on discovery.
+Collaboration is fundamental to my approach; I partner directly with engineers, researchers, and domain experts to bridge scientific rigor with robust software engineering practices. My primary objective is to translate complex geoscientific challenges into accessible, user-focused tools—streamlining data ingestion, enhancing analytical capabilities, and facilitating interactive visualizations so researchers can concentrate fully on their discoveries.
+
 
 
 
