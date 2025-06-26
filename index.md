@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: "Scientific Software Engineer"
 header:
-  overlay_image: /images/ncar.png
+  overlay_image: /images/fluid_header.png
   overlay_filter: 0.5
 ---
 
