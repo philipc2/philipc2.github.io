@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 excerpt: ""
 header:
-  overlay_image: /images/ncar.png
-  overlay_filter: 0.5
+  overlay_image: /images/fluid_header_wide.png
+  overlay_filter: 0.1
 ---
 
 ## Intermediate Python Programming
