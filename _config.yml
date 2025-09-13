@@ -105,7 +105,7 @@ author:
   name             : "Philip Chmielowiec"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Scientific Software Engineer"
-  location         : "Chicago, Illinois"
+  location         : "New Mexico"
   email            : "chmielowiec.philip@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
