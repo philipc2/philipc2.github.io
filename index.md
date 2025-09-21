@@ -2,7 +2,7 @@
 title: "Philip Chmielowiec"
 layout: single
 author_profile: true
-excerpt: "Scientific Software Engineer"
+excerpt: "R&D Computer Scientist"
 header:
   overlay_image: /images/fluid_header_wide.png
   overlay_filter: 0.1
@@ -10,7 +10,9 @@ header:
 
 ## About
 
-I'm a **Scientific Software Engineer** with the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/), where I develop [UXarray](https://github.com/UXARRAY/uxarray), a Python library designed for analyzing and visualizing unstructured-grid datasets.
+I'm a **R&D Computer Scientist** with the Real Time Data Processing organization at [Sandia National Laboratories](https://www.sandia.gov/). 
+
+I've previously worked as a **Scientific Software Engineer** with the [GeoCAT](https://geocat.ucar.edu/) team at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu/), where I developed [UXarray](https://github.com/UXARRAY/uxarray), a Python library designed for analyzing and visualizing unstructured-grid datasets.
 
 My work centers on harnessing Python's versatility in scientific computing to enable sophisticated analyses without sacrificing performance. By integrating modern, high-performance libraries such as Numba, Dask, and CuPy, as well as targeted extensions written in C++ and CUDA, I create intuitive, scalable Python APIs suitable for environments ranging from individual workstations to high-performance computing clusters.
 
